@@ -44,7 +44,7 @@ monday_temp = int(monday.temp)
 monday_temp_F = monday_temp * 9/5 + 32
 print(monday_temp_F)
 
-Create a dataframe from scratch
+#Create a dataframe from scratch
 data_dict = {
     "students": ["Amy", "James", "Angela"],
     "scores": [76, 56, 65]
